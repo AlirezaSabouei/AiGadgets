@@ -1,4 +1,4 @@
-namespace Domain.Homes;
+namespace Domain.Homes.Entities;
 
 public class Home : BaseEntity
 {
